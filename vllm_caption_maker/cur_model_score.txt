@@ -1,0 +1,31 @@
++---------------+-------+--------------+-------+----------------+-------+
+| category      | AP    | category     | AP    | category       | AP    |
++---------------+-------+--------------+-------+----------------+-------+
+| person        | 0.481 | bicycle      | 0.239 | car            | 0.369 |
+| motorcycle    | 0.357 | airplane     | 0.532 | bus            | 0.566 |
+| train         | 0.574 | truck        | 0.257 | boat           | 0.196 |
+| traffic light | 0.230 | fire hydrant | 0.580 | stop sign      | 0.588 |
+| parking meter | 0.339 | bench        | 0.198 | bird           | 0.276 |
+| cat           | 0.578 | dog          | 0.548 | horse          | 0.457 |
+| sheep         | 0.454 | cow          | 0.452 | elephant       | 0.574 |
+| bear          | 0.640 | zebra        | 0.590 | giraffe        | 0.606 |
+| backpack      | 0.092 | umbrella     | 0.298 | handbag        | 0.072 |
+| tie           | 0.230 | suitcase     | 0.279 | frisbee        | 0.566 |
+| skis          | 0.180 | snowboard    | 0.270 | sports ball    | 0.420 |
+| kite          | 0.366 | baseball bat | 0.202 | baseball glove | 0.308 |
+| skateboard    | 0.405 | surfboard    | 0.337 | tennis racket  | 0.378 |
+| bottle        | 0.304 | wine glass   | 0.244 | cup            | 0.315 |
+| fork          | 0.201 | knife        | 0.086 | spoon          | 0.076 |
+| bowl          | 0.340 | banana       | 0.189 | apple          | 0.163 |
+| sandwich      | 0.293 | orange       | 0.273 | broccoli       | 0.197 |
+| carrot        | 0.174 | hot dog      | 0.280 | pizza          | 0.455 |
+| donut         | 0.349 | cake         | 0.304 | chair          | 0.200 |
+| couch         | 0.358 | potted plant | 0.190 | bed            | 0.391 |
+| dining table  | 0.230 | toilet       | 0.517 | tv             | 0.494 |
+| laptop        | 0.496 | mouse        | 0.506 | remote         | 0.200 |
+| keyboard      | 0.410 | cell phone   | 0.246 | microwave      | 0.491 |
+| oven          | 0.261 | toaster      | 0.231 | sink           | 0.283 |
+| refrigerator  | 0.452 | book         | 0.114 | clock          | 0.447 |
+| vase          | 0.266 | scissors     | 0.175 | teddy bear     | 0.373 |
+| hair drier    | 0.050 | toothbrush   | 0.162 | background     | 0     |
++---------------+-------+--------------+-------+----------------+-------+
